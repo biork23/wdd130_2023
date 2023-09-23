@@ -1,0 +1,26 @@
+.bgn {
+    background-color: rgb(245, 245, 187);
+}
+
+.about {
+    text-align: center;
+}
+
+.container {
+
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height:400px
+    ;
+
+  }
+
+  .name {
+    text-align: center;
+    font-style: italic;
+  }
